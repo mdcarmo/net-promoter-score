@@ -7,7 +7,7 @@ Api construida na trilha de <strong>NodeJS</strong> na <strong>Next Level Week</
 Nesta semana NLW foi desenvolvido um projeto que consiste em calcular o Net Promoter Score de uma empresa. Nele fazemos cadastro de usuários e pesquisas de satisfação, envio de email para os usuários responderem as pesquisas e com isso podemos realizar o cálculo do NPS.
 
 <p align="center">
-  <img alt="" src="imagens/resume.png" width="100%">
+  <img alt="" src="https://raw.githubusercontent.com/mdcarmo/net-promoter-score/main/imagens/resume.PNG" width="100%">
 </p>
 
 ## 🛠 Tecnologias utilizadas:
