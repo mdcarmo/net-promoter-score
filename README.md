@@ -59,7 +59,7 @@ yarn dev
 Agora, e se deu tudo certo voce deverá ver o aplicativo rodando em [localhost:3334](http://localhost:3334)
 
 ## 🔶 Diagrama
-<img src="imagens/diagrama-classes.png" alt="Diagrama da aplicação" />
+<img src="https://raw.githubusercontent.com/mdcarmo/net-promoter-score/main/imagens/diagrama-classes.PNG" alt="Diagrama da aplicação" />
 
 ### Insomnia Collection (pegue aqui a coleção de serviços para o insomnia)
 [Collection](insomnia/Insomnia_2021-03-03.json)
